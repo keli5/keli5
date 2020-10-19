@@ -8,4 +8,4 @@ I only have a few actual active repositories. Some are just little snippets of c
 Your best bet for getting a hold of me is on Discord: letters#7806<br>
 There are no other good (consistent) methods that I use at the moment.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=keli5)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=keli5&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
