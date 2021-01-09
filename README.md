@@ -6,6 +6,6 @@ I only have a few actual active repositories. Some are just little snippets of c
 
 ## Contact(?)
 Your best bet for getting a hold of me is on Discord: letters#7806<br>
-There are no other good (consistent) methods that I use at the moment.
+I also check my twitter every now and then
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=keli5&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![keli5's github stats](https://github-readme-stats.vercel.app/api?username=keli5&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
