@@ -5,5 +5,5 @@ Hi! I'm keli5. I write software for myself or others to use, out of necessity or
 I only have a few actual active repositories. Some are just little snippets of code written for a few specific people. Some are meant for public use, like LettersBotPY. I'll gladly look at contributions to any repo, I'm always looking to improve, whether it's JS, Python, HTML or anything else I've made public.
 
 ## Contact(?)
-Your best bet for getting a hold of me is on Discord: letters#7806<br>
-I also check my twitter every now and then
+Your best bet for getting a hold of me is on Discord: keli5_letters#7699<br>
+Or join my server: https://discord.gg/7z6xkE8RKR
